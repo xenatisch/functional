@@ -4,9 +4,9 @@ FILE_NAME="README.md"
 
 # First time only.
 # -------------------------------
-git tag 0.1
-git describe --tags --long
-date "+%d-%m-%Y, %H:%M:%S"
+#git tag 0.1
+#git describe --tags --long
+#date "+%d-%m-%Y, %H:%M:%S"
 # -------------------------------
 timeStamp=$(date)
 ver=$(sh git-revision.sh)

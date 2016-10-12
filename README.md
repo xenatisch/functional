@@ -1,5 +1,5 @@
 # Functional
-Version .0
+Version 0.1.2
 
 Licence: MIT
 
