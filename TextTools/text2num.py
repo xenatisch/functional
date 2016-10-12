@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """
-Function for converting string values containing numbers, or an iterable containing such
+Functions for converting string values containing numbers, or an iterable containing such
 values to floating point or integer numbers (or a similar type of array of floating points
 or integer numbers).
 
@@ -23,7 +23,7 @@ __date__ = '12/10/2016, 19:22'
 
 def str2float(value):
     """
-    Coverts numeric values from `str` or an array thereof to `float`.
+    Converts numeric values from `str` or an array thereof to `float`.
 
     If numeric value is in the correct format, but contains invalid
     characters entered by mistake, such mistakes are automatically discarded.
@@ -88,7 +88,7 @@ def str2float(value):
 
 def str2int(value):
     """
-    Coverts numeric values from `str` or an array thereof to `int`.
+    Converts numeric values from `str` or an array thereof to `int`.
 
     If numeric value is in the correct format, but contains invalid
     characters entered by mistake, such mistakes are automatically discarded.
