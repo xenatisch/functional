@@ -1,0 +1,1 @@
+This is a nice, compact text from a file. But it is short.
